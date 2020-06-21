@@ -39,6 +39,31 @@ namespace LTCSDL.Web.Controllers
             return Ok(res);
         }
 
+        [HttpPost("proc_DoanhThuNhanVienTrongNgay")]
+        public IActionResult proc_DoanhThuNhanVienTrongNgay([FromBody]string date)
+        {
+            var res = new SingleRsp();
+            res.Data = _svc.proc_DoanhThuNhanVienTrongNgay(date);
+            return Ok(res);
+        }
+
+        [HttpPost("proc_DoanhThuNhanVienTrongKhoang")]
+        public IActionResult proc_DoanhThuNhanVienTrongKhoang([FromBody]BetweenDateReq date)
+        {
+            var res = new SingleRsp();
+            res.Data = _svc.proc_DoanhThuNhanVienTrongKhoang(date.begin, date.end);
+            return Ok(res);
+        }
+
+        [HttpPost("LayDoanhThuTrongNgay")]
+        public IActionResult LayDoanhThuTrongNgay([FromBody]DateTime date)
+        {
+            var res = new SingleRsp();
+            res.Data = _svc.LayDoanhThuTrongNgay(date);
+            return Ok(res);
+        }
+
+
         private readonly CategoriesSvc _svc;
     }
 }

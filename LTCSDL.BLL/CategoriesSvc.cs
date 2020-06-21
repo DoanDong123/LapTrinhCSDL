@@ -61,7 +61,22 @@ namespace LTCSDL.BLL
         /// Initialize
         /// </summary>
         public CategoriesSvc() { }
-      
+
+
+        public List<object> proc_DoanhThuNhanVienTrongNgay(string date)
+        {
+            return _rep.proc_DoanhThuNhanVienTrongNgay(date);
+        }
+
+        public List<object> proc_DoanhThuNhanVienTrongKhoang(string batdau, string ketthuc)
+        {
+            return _rep.proc_DoanhThuNhanVienTrongKhoang(batdau, ketthuc);
+        }
+
+        public object LayDoanhThuTrongNgay(DateTime date)
+        {
+            return _rep.LayDoanhThuTrongNgay(date);
+        }
 
         #endregion
     }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TestDotnet\\LTCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {}
+    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {}
   },
   "projects": {
-    "F:\\TestDotnet\\LTCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TestDotnet\\LTCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj",
+        "projectUniqueName": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj",
         "projectName": "LTCSDL.Common",
-        "projectPath": "F:\\TestDotnet\\LTCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj",
-        "packagesPath": "C:\\Users\\HaoLee\\.nuget\\packages\\",
-        "outputPath": "F:\\TestDotnet\\LTCSDL\\LTCSDL.Common\\obj\\",
+        "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj",
+        "packagesPath": "C:\\Users\\Dat\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HaoLee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,24 +61,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\TestDotnet\\LTCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
+    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TestDotnet\\LTCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
+        "projectUniqueName": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
         "projectName": "LTCSDL.DAL",
-        "projectPath": "F:\\TestDotnet\\LTCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
-        "packagesPath": "C:\\Users\\HaoLee\\.nuget\\packages\\",
-        "outputPath": "F:\\TestDotnet\\LTCSDL\\LTCSDL.DAL\\obj\\",
+        "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
+        "packagesPath": "C:\\Users\\Dat\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HaoLee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\TestDotnet\\LTCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj": {
-                "projectPath": "F:\\TestDotnet\\LTCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj"
+              "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+                "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj"
               }
             }
           }
@@ -136,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
