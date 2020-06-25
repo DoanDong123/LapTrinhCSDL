@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.BLL\\LTCSDL.BLL.csproj": {}
+    "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\LTCSDL.BLL.csproj": {}
   },
   "projects": {
-    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.BLL\\LTCSDL.BLL.csproj": {
+    "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\LTCSDL.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
+        "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
         "projectName": "LTCSDL.BLL",
-        "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
-        "packagesPath": "C:\\Users\\Dat\\.nuget\\packages\\",
-        "outputPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.BLL\\obj\\",
+        "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,11 +31,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
-                "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj"
+              "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+                "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj"
               },
-              "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
-                "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj"
+              "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
+                "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj"
               }
             }
           }
@@ -68,25 +69,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+    "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj",
+        "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj",
         "projectName": "LTCSDL.Common",
-        "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj",
-        "packagesPath": "C:\\Users\\Dat\\.nuget\\packages\\",
-        "outputPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\obj\\",
+        "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -129,25 +131,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
+    "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
+        "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
         "projectName": "LTCSDL.DAL",
-        "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
-        "packagesPath": "C:\\Users\\Dat\\.nuget\\packages\\",
-        "outputPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.DAL\\obj\\",
+        "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -159,8 +162,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
-                "projectPath": "E:\\Downloads\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj"
+              "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+                "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj"
               }
             }
           }
@@ -204,7 +207,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
