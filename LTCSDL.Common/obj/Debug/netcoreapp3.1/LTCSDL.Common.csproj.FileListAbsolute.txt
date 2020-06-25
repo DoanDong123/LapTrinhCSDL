@@ -15,3 +15,12 @@ E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Comm
 E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
 E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
 E:\Downloads\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\Dong\Lap_Trinh_CSDL\LapTrinhCSDL\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
