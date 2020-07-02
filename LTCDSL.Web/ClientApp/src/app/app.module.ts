@@ -11,6 +11,8 @@ import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { OrderComponent } from './order/order.component';
 import { OrderdetailComponent } from './orderdetail/orderdetail.component';
+import { ProductsComponent } from './products/products.component';
+import { SoluongDonHangKhoangThoiGianComponent } from './soluong-don-hang-khoang-thoi-gian/soluong-don-hang-khoang-thoi-gian.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,7 @@ import { OrderdetailComponent } from './orderdetail/orderdetail.component';
     CounterComponent,
     FetchDataComponent,
     OrderComponent, 
-    OrderdetailComponent
+    OrderdetailComponent, ProductsComponent, SoluongDonHangKhoangThoiGianComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -31,7 +33,8 @@ import { OrderdetailComponent } from './orderdetail/orderdetail.component';
       { path: 'counter', component: CounterComponent },
       { path: 'fetch-data', component: FetchDataComponent },
       { path: 'order', component: OrderComponent },
-      { path: 'orderdetail', component: OrderdetailComponent}
+      { path: 'orderdetail', component: OrderdetailComponent},
+      { path: 'soluong-don-hang-khoang-thoi-gian', component: SoluongDonHangKhoangThoiGianComponent}
     ])
   ],
   providers: [],

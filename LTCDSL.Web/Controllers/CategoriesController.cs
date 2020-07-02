@@ -51,7 +51,7 @@ namespace LTCSDL.Web.Controllers
         public IActionResult proc_DoanhThuNhanVienTrongKhoang([FromBody]BetweenDateReq date)
         {
             var res = new SingleRsp();
-            res.Data = _svc.proc_DoanhThuNhanVienTrongKhoang(date.begin, date.end);
+            res.Data = _svc.proc_DoanhThuNhanVienTrongKhoang(date.begin_string, date.end_string);
             return Ok(res);
         }
 

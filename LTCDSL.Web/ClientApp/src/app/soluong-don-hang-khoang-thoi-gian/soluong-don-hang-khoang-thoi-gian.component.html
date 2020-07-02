@@ -1,0 +1,21 @@
+<h1 id="tableLabel">Số lượng hàng hóa trong khoảng thời gian</h1>
+
+<input  type="date" id="beginDate"/>
+<input  type="date" id="endDate"/>
+
+<button class="btn-info" (click)="submit()">Submit</button>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="dsHangHoa">
+  <thead>
+    <tr>
+      <th>Order Date</th>
+      <th>Tổng Số Lượng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of dsHangHoa">
+      <td>{{ item.orderDate }}</td>
+      <td>{{ item.tongSoLuong }}</td>
+    </tr>
+  </tbody>
+</table>
