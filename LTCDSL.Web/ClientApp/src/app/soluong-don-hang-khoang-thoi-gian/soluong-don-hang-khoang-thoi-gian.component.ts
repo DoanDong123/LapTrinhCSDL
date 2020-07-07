@@ -30,6 +30,7 @@ export class SoluongDonHangKhoangThoiGianComponent implements OnInit {
     this.http.post('https://localhost:44377/api/Orders/SoLuongHangHoaTrongKhoangThoiGian_Linq', x).subscribe(result => {
       var res: any = result;
       this.dsHangHoa = res.data;
+      
     }, error => console.error(error));
   }
 }

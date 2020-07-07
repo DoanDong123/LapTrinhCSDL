@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
+import { GoogleChartsModule } from 'angular-google-charts';
 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
@@ -13,6 +14,7 @@ import { OrderComponent } from './order/order.component';
 import { OrderdetailComponent } from './orderdetail/orderdetail.component';
 import { ProductsComponent } from './products/products.component';
 import { SoluongDonHangKhoangThoiGianComponent } from './soluong-don-hang-khoang-thoi-gian/soluong-don-hang-khoang-thoi-gian.component';
+import { ShipperComponent } from './shipper/shipper.component'; 
 
 @NgModule({
   declarations: [
@@ -22,10 +24,12 @@ import { SoluongDonHangKhoangThoiGianComponent } from './soluong-don-hang-khoang
     CounterComponent,
     FetchDataComponent,
     OrderComponent, 
-    OrderdetailComponent, ProductsComponent, SoluongDonHangKhoangThoiGianComponent
+    OrderdetailComponent, ProductsComponent, SoluongDonHangKhoangThoiGianComponent,
+    ShipperComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
+    GoogleChartsModule,
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
@@ -34,7 +38,10 @@ import { SoluongDonHangKhoangThoiGianComponent } from './soluong-don-hang-khoang
       { path: 'fetch-data', component: FetchDataComponent },
       { path: 'order', component: OrderComponent },
       { path: 'orderdetail', component: OrderdetailComponent},
-      { path: 'soluong-don-hang-khoang-thoi-gian', component: SoluongDonHangKhoangThoiGianComponent}
+      { path: 'soluong-don-hang-khoang-thoi-gian', component: SoluongDonHangKhoangThoiGianComponent},
+      { path: 'orderdetail', component: OrderdetailComponent},
+      { path: 'shipper', component: ShipperComponent}
+
     ])
   ],
   providers: [],
