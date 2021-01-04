@@ -4,11 +4,10 @@ using System.Text;
 
 namespace LTCSDL.Common.Req
 {
-    public class DatePageSize
+    public class DoanQuiDongReq
     {
-        public string Keyword { get; set; }
         public DateTime date { get; set; }
-        public int Page { get; set; }
-        public int Size { get; set; }
+        public int page { get; set; }
+        public int size { get; set; }
     }
 }

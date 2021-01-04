@@ -2119,6 +2119,7 @@
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4970,11 +4971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
+      "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
       "projectName": "LTCSDL.BLL",
-      "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
+      "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.BLL\\LTCSDL.BLL.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.BLL\\obj\\",
+      "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4994,11 +4995,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj": {
-              "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj"
+            "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+              "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj"
             },
-            "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
-              "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.DAL\\LTCSDL.DAL.csproj"
+            "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj": {
+              "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj"
             }
           }
         }

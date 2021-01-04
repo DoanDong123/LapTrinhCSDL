@@ -29,10 +29,5 @@ namespace LTCSDL.DAL.Models
         public virtual Employees Employee { get; set; }
         public virtual Shippers ShipViaNavigation { get; set; }
         public virtual ICollection<OrderDetails> OrderDetails { get; set; }
-
-        internal object First()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

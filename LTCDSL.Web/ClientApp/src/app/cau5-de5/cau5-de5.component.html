@@ -1,0 +1,26 @@
+<h1 id="tableLabel">Số lượng hàng hóa trong khoảng thời gian</h1>
+
+<div class="col-4">Ngày bắt đầu<input class="form-control"  type="date" id="beginDate"/></div>
+<div class="col-4">Ngày kết thúc<input class="form-control" type="date" id="endDate"/></div>
+<br>
+<div class="col-4"><button class="btn btn-primary" (click)="submit()">Submit</button></div>
+<!-- <div class="col-4"><button class="btn btn-primary" (click)="onShowChart()">Google chart</button></div> -->
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="dsHangHoa">
+  <thead>
+    <tr>
+      <th>Order ID</th>
+      <th>Order Date</th>
+      <th>Số Lượng Hàng Hóa</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of dsHangHoa">
+      <td>{{ item.orderId }}</td>
+      <td>{{ item.orderDate }}</td>
+      <td>{{ item.soLuongHangHoa }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <div id="barchart_values" style="width: 900px; height: 300px;"></div> -->

@@ -638,11 +638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj",
+      "projectUniqueName": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj",
       "projectName": "LTCSDL.Common",
-      "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\LTCSDL.Common.csproj",
+      "projectPath": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LapTrinhCSDL\\LTCSDL.Common\\obj\\",
+      "outputPath": "F:\\Dong\\Lap_Trinh_CSDL\\LTCSDL-192-master\\LTCSDL.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
